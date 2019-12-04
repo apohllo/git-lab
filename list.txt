@@ -49,4 +49,10 @@ Atleta
 Saollin
 
 Swift
+<<<<<<< HEAD
 Pinio
+=======
+
+XD
+
+>>>>>>> added XD to list
