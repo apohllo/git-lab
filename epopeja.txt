@@ -29,3 +29,7 @@ Tym bielsze, że odbite od ciemnej zieleni
 Topoli, co go bronią od wiatrów jesieni.
 Dóm mieszkalny niewielki, lecz zewsząd chędogi,
 I stodołę miał wielką, i przy niej trzy stogi
+<<<<<<< HEAD
+=======
+Użątku, co pod strzechą zmieścić się nie może.
+>>>>>>> 69789f8cc5d1ad42b0c8a4bab304ccc67a212bdc
