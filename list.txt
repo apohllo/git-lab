@@ -8,6 +8,7 @@ Narwal
 rivit
 Atanasius
 szarek
+Kamyś
 Aksolotl
 Jalid
 APodo
@@ -38,6 +39,7 @@ Atleta
 Saollin
 Swift
 Pinio
+agga
 Przemq
 tmek1244
 Wokstym
