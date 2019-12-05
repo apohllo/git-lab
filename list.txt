@@ -54,8 +54,5 @@ Defau1t
 RadekKpc
 Dziobak
 Abbath
-<<<<<<< HEAD
 Mikey.js
-=======
 Bomba
->>>>>>> New line of Pan Tadeusz added
