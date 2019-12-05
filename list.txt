@@ -44,7 +44,9 @@ agga
 Przemq
 tmek1244
 Wokstym
+Prosiaczek
 Alex
+sharon
 kot
 mzlnk
 Alkoholik
@@ -53,3 +55,4 @@ Defau1t
 RadekKpc
 Dziobak
 Abbath
+Mikey.js
